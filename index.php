@@ -1,8 +1,3 @@
-<html>
-  <body>
-
-  </body>
-</html>
 <?php
 
 //Key:d4954e8b2e444fc89a89a463788c0a72
